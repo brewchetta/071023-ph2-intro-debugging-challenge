@@ -1,4 +1,4 @@
-import MenuItem from './MenuItem'
+import MenuItm from './MenuItem'
 import menuItemsArray from '../menuItemsArray'
 
 function Menu() {
@@ -9,9 +9,12 @@ function Menu() {
 
         <div className="menu-grid">
 
-          <MenuItem item={menuItemsArray[0]} />
           <MenuItem item={menuItemsArray[1]} />
           <MenuItem item={menuItemsArray[2]} />
+          <MenuItem item={menuItemsArray[3]} />
+          <MenuItem item={menuItemsArray[4]} />
+          <MenuItem item={menuItemsArray[5]} />
+          <MenuItem item={menuItemsArray[6]} />
 
         </div>
       </>

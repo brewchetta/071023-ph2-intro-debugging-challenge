@@ -1,6 +1,4 @@
-import TitleBanner from './TitleBanner'
-import Menu from './Menu'
-import Footer from './Footer'
+
 
 function App() {
   return (
@@ -12,7 +10,7 @@ function App() {
 
       <Footer />
 
-    </div>
+
   );
 }
 

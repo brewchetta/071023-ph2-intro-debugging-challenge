@@ -11,7 +11,7 @@ function Footer(props) {
       {/* left side section */}
       <div className="footer-section">
         <h4>About</h4>
-        <p>{ aboutText }</p>
+        <p>aboutText</p>
       </div>
 
       {/* center section */}
@@ -26,11 +26,8 @@ function Footer(props) {
 
       {/* right side section */}
       <div className="footer-section">
-        <p>©{currentYear}</p>
-        <p>All rights reserved</p>
+        <p>©{currentYear} All Rites Reserved</p>
       </div>
     </div>
   )
 }
-
-export default Footer

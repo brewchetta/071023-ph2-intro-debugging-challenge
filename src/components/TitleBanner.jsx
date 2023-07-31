@@ -9,7 +9,7 @@ function TitleBanner() {
 
       <h2>Home of the Breakfast Champions</h2>
 
-      <h3>Since {foundingYear}</h3>
+      <h3>Since foundingYear</h3>
 
     </div>
   )
