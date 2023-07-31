@@ -25,6 +25,7 @@ When you believe you're done you should be able to reload the page without it br
 
 Tips:
 
+- if you have an error message then be sure to **read the error** including the **line number**
 - draw out your component tree so you know exactly what should be imported
 - you can `console.log` the props in MenuItem, be sure to make no assumptions...
 - you have to do something special to switch between javascript and jsx
